@@ -35,6 +35,6 @@ export default class Block {
     }
 
     calculateHash = (index: number, previousHash: number, timestamp: number, data: string) => {
-        
+        //Adding the calculate hash logic here
     }
 }
